@@ -1,7 +1,7 @@
 # LOOKAHEAD vs LAZYLOOKAHEAD For ROS2 TurtleBot
 This Project implements the AStar planning algorithm along with the Lookahead and LazyLookahead acting algorithms, where in both the acting algorithms were compared in regards to the planning time and the execution time taken by each algorithm in a ROS2 Gazebo environment
 
-![alt Environment](Environment_Img/Environment.png.png "Environment")
+![alt Environment](Environment_Img/Environment.png "Environment")
 
 ## Dependencies:
 - ROS2 Humble
@@ -60,4 +60,4 @@ If you want to change the algorithm from lookahead to lazylookahead, look for th
 
 
 ## Plot
-![alt Planning_&_Execution](Environment_Img/planning_and_execution.png.png "Planning_&_Execution")
+![alt Planning_&_Execution](Environment_Img/planning_and_execution.png "Planning_&_Execution")
